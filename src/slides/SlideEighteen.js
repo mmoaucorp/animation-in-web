@@ -10,7 +10,7 @@ export default function SlideEighteen() {
         <Wrapper flex alignItems="center" p={4}>
           <BlockQuote
             size="small"
-            text="Successful microinteractions are only slightly noticeable before they fade away. Just like good animation is invisible, you shouldn’t notice a microinteraction. They should be small and simple. They give feedback, and they always follow the rules, so whether it’s the first time or the 50th, your user know what to expect."
+            text="Successful microinteractions are only slightly noticeable before they fade away. Just like good animation is invisible, you shouldn’t notice a microinteraction. They should be small and simple."
           />
         </Wrapper>
         <Wrapper flex alignItems="center" p={4}>
