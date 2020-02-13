@@ -12,7 +12,7 @@ export default () => (
       <FullScreen />
     </Box>
     <Box padding="1em">
-      <Progress />
+      <Progress type="number" progressColor="primary" />
     </Box>
   </FlexBox>
 );
