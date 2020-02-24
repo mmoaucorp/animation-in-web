@@ -13,14 +13,14 @@ export default function SlideFive() {
           <Text>Phase 1</Text>
           <OrderedList>
             <ListItem>Graphics Interchange Format</ListItem>
-            <ListItem>Macromedia’s/Adobe’s Flash Flash</ListItem>
+            <ListItem>Macromedia’s/Adobe’s Flash</ListItem>
           </OrderedList>
         </Box>
       </Wrapper>
       <Wrapper flex alignItems="center" p={4}>
         <FlexBox height="100%" flexDirection="column">
           <Image src={gifImg} width={300} />
-          <Cite>Gif</Cite>
+          <Cite>First Gif introduced by CompuServe in 80s</Cite>
         </FlexBox>
         <FlexBox height="100%" flexDirection="column">
           <Image src={flashImg} width={300} />

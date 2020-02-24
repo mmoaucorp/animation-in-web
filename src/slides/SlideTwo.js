@@ -9,7 +9,7 @@ export default function SlideTwo() {
         <Text variant="body2">Today's Goal:</Text>
         <FlexBox align="center">
           <Heading variant="h2">
-            Leave here with a better understanding of{" "}
+            Leave here with a basic (!technical) understanding of{" "}
             <span>Animation in WEB</span>
           </Heading>
         </FlexBox>
